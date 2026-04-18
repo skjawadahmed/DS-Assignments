@@ -1,0 +1,11 @@
+KEEP app.py, assignment8.ipynb, diabetes.csv files in 1 saparate folder
+
+STEP-1 : RUN THE assignment8.ipynb file
+STEP-2 : You can see logistic_model.pkl & scaler.pkl file created inside the folder
+STEP-3 : go to app.py, open terminal and run this below command
+        streamlit run app.py
+STEP-4 : You can now view your Streamlit app in your browser. by click the link inside the terminal streamlit webpage opens you can put your values and get your predictions.
+
+thank you
+
+
